@@ -1,0 +1,6 @@
+framework module Pods_BookAPI_jaeseung {
+  umbrella header "Pods-BookAPI_jaeseung-umbrella.h"
+
+  export *
+  module * { export * }
+}
